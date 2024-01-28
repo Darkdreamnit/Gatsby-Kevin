@@ -1,10 +1,12 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: "Laser Engraving: What You Need To Start"
+date: 2024-01-28T21:12:10.212Z
+description: Laser Engraving is becoming more and more popular. But before you
+  start on your laser engraving journey, there are a couple things you need to
+  know to get started.
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
   - tasting
