@@ -8,8 +8,9 @@ description: Laser Engraving is becoming more and more popular. But before you
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 tags:
-  - flavor
-  - tasting
+  - laser
+  - engraving
+  - engrave
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
